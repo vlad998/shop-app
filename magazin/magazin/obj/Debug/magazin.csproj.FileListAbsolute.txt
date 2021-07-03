@@ -1,0 +1,38 @@
+C:\Users\NoPassword\Desktop\magazin\magazin\bin\Debug\magazin.exe.config
+C:\Users\NoPassword\Desktop\magazin\magazin\bin\Debug\magazin.exe
+C:\Users\NoPassword\Desktop\magazin\magazin\bin\Debug\magazin.pdb
+C:\Users\NoPassword\Desktop\magazin\magazin\obj\Debug\magazin.csprojResolveAssemblyReference.cache
+C:\Users\NoPassword\Desktop\magazin\magazin\obj\Debug\magazin.Form1.resources
+C:\Users\NoPassword\Desktop\magazin\magazin\obj\Debug\magazin.Properties.Resources.resources
+C:\Users\NoPassword\Desktop\magazin\magazin\obj\Debug\magazin.csproj.GenerateResource.Cache
+C:\Users\NoPassword\Desktop\magazin\magazin\obj\Debug\magazin.exe
+C:\Users\NoPassword\Desktop\magazin\magazin\obj\Debug\magazin.pdb
+C:\Users\NoPassword\Desktop\magazin\magazin\obj\Debug\magazin.vanzari.resources
+C:\Users\GTX\Desktop\magazin\magazin\bin\Debug\magazin.exe.config
+C:\Users\GTX\Desktop\magazin\magazin\bin\Debug\magazin.exe
+C:\Users\GTX\Desktop\magazin\magazin\bin\Debug\magazin.pdb
+C:\Users\GTX\Desktop\magazin\magazin\obj\Debug\magazin.Form1.resources
+C:\Users\GTX\Desktop\magazin\magazin\obj\Debug\magazin.Properties.Resources.resources
+C:\Users\GTX\Desktop\magazin\magazin\obj\Debug\magazin.vanzari.resources
+C:\Users\GTX\Desktop\magazin\magazin\obj\Debug\magazin.csproj.GenerateResource.cache
+C:\Users\GTX\Desktop\magazin\magazin\obj\Debug\magazin.csproj.CoreCompileInputs.cache
+C:\Users\GTX\Desktop\magazin\magazin\obj\Debug\magazin.exe
+C:\Users\GTX\Desktop\magazin\magazin\obj\Debug\magazin.pdb
+C:\Users\GTX\Desktop\magazin 1 iunie\magazin\magazin\bin\Debug\magazin.exe.config
+C:\Users\GTX\Desktop\magazin 1 iunie\magazin\magazin\bin\Debug\magazin.exe
+C:\Users\GTX\Desktop\magazin 1 iunie\magazin\magazin\bin\Debug\magazin.pdb
+C:\Users\GTX\Desktop\magazin 1 iunie\magazin\magazin\obj\Debug\magazin.csprojResolveAssemblyReference.cache
+C:\Users\GTX\Desktop\magazin 1 iunie\magazin\magazin\obj\Debug\magazin.Form1.resources
+C:\Users\GTX\Desktop\magazin 1 iunie\magazin\magazin\obj\Debug\magazin.Properties.Resources.resources
+C:\Users\GTX\Desktop\magazin 1 iunie\magazin\magazin\obj\Debug\magazin.vanzari.resources
+C:\Users\GTX\Desktop\magazin 1 iunie\magazin\magazin\obj\Debug\magazin.csproj.GenerateResource.cache
+C:\Users\GTX\Desktop\magazin 1 iunie\magazin\magazin\obj\Debug\magazin.csproj.CoreCompileInputs.cache
+C:\Users\GTX\Desktop\magazin 1 iunie\magazin\magazin\obj\Debug\magazin.exe
+C:\Users\GTX\Desktop\magazin 1 iunie\magazin\magazin\obj\Debug\magazin.pdb
+C:\Users\NoPassword\Desktop\magazin\magazin\obj\Debug\magazin.istoricForm.resources
+C:\Users\GTX\Desktop\magazin\magazin\obj\Debug\magazin.istoricForm.resources
+C:\Users\NoPassword\Desktop\magazin\magazin\obj\Debug\magazin.rapoarte.resources
+C:\Users\GTX\Desktop\magazin\magazin\obj\Debug\magazin.rapoarte.resources
+C:\Users\NoPassword\Desktop\magazin\magazin\obj\Debug\magazin.stoc.resources
+C:\Users\GTX\Desktop\magazin\magazin\obj\Debug\magazin.stoc.resources
+C:\Users\GtX\Desktop\magazin\magazin\obj\Debug\magazin.csprojAssemblyReference.cache
